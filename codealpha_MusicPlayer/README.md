@@ -19,13 +19,3 @@ A modern, fully functional web-based music player featuring a premium **Glassmor
 - **Library:** [ColorThief](for image color extraction).
 - **Icons:** [FontAwesome 6]
 
-## 📂 Project Structure
-
-/glass-music-player
-│
-├── images/ # Album art (.jpg/.png)
-├── songs/ # Audio files (.mp3)
-├── index.html # Main structure
-├── style.css # Styling and animations
-├── script.js # Logic (Audio API, ColorThief, UI)
-└── README.md # Documentation
